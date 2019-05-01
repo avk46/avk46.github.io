@@ -1,0 +1,30 @@
+p{
+  color:white;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 300px;
+  font-size: 50px;
+}
+body{
+  background: lightblue;
+}
+h2{
+  color:white;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 30px;
+
+}
+h3{
+  font:Arial;
+  text-align: center;
+  color:white;
+  font-size: 20px;
+}
+h3:hover{
+  color:orange;
+}
+a:hover{
+  color:orange;
+}
